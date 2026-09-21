@@ -1,0 +1,16 @@
+# Terraform generated files
+terraform/.terraform/
+terraform/*.tfstate
+terraform/*.tfstate.*
+terraform/terraform.tfstate.d/
+
+# Terraform variable files - may contain secrets
+terraform/*.tfvars
+terraform/*.tfvars.json
+
+# VS Code
+.vscode/
+
+# OS
+Thumbs.db
+.DS_Store
